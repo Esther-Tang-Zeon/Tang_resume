@@ -3,7 +3,7 @@ layout: cv
 title: Esther Tang's Resume
 ---
 # Esther Tang
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+A student of Brigham Young University Idaho. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
