@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Esther's Resume
+title: Esther Tang's Resume
 ---
 # Esther Tang
 
