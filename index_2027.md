@@ -26,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Languages
 
 - Native: Mandarin 
-- Fluent:  English, Cantonese, Malay, Spanish,
+- Fluent:  English, Cantonese, Malay, Spanish
 
 ## Experience
 
