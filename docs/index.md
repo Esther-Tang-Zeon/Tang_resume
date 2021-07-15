@@ -1,85 +1,89 @@
 ---
-layout: cv
+layout: resume
 title: Esther Tang's Resume
 ---
 # Esther Tang
-A student of Brigham Young University Idaho. 
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">tan18017@@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-
-`Expected 2023`
+`2019-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor of Science in Data Science 
+- Relevant Courses: Programming Building Blocks, Programming with Functions, Social Science Statistics, Database Design and Development, Data Science Programming, Web Fundamentals
+- Skills: mySQL, Python 
 
 
-## Related Experience
+## Languages
 
-### Internships
+- Native: Mandarin 
+- Fluent:  English, Cantonese, Malay, Spanish
+
+## Experience
+
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Personal Math Tutor__, Ipoh, Malaysia
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Prepare daily lesson plans for students 
+- Help struggling students improve their critical thinking and problem-solving skills
+- Give praise and assurance to boost student’s self-confidence and self-esteem
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`September 2019 - Present`
+__Teaching Assistant for Music Class__, Rexburg, Idaho
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Assisted and mentored 20+ students in groups 
+- Supervised 30+ students with weekly singing quiz to enhance their singing skills
+- Proctored 100+ students monthly tests and weekly quizzes, and ensured academic integrity in the classroom
+- Worked under teacher’s direction to maintain an appropriate environment in the classroom
+- Gave feedback to 10+ students with their tests and improved their ability to do better in the upcoming tests
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+`January 2021 - Present`
+__Teaching Assistant for Chinese Class__,Rexburg, Idaho 
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Assisted and mentored 20+ students in groups 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`September 2019 - December 2019`
+__Chick-Fil-A Team Member__, 
+
+- Communicate clearly with co-workers and management 
+- Work efficiently and quickly to resolve food or service issues
+- Maintain proper quality food for customers
+- Attain culinary knowledge 
+
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2018`
+__Service Missionary__, Spain
+- Created lesson plans designed for local people to understand how to obtain a holistic lifestyle
+- Worked effectively with others to achieve common goal
+- Learned the cultural values and customs within the Spanish community 
+- Obtained fluency in written and spoken Spanish within 6 months
+- Translated Spanish to Chinese in the Chinese community
+- Adapted to a diverse community with different culture and custom
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 14, 2021  -->
+
 
 
